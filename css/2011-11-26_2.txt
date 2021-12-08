@@ -1,0 +1,11 @@
+cascading style sheet
+
+cascading 단계  연속된 폭포
+author style  -> css 정의
+user style -> 사용자 지정 스타일
+browser -> 브라우저 기본
+
+important -> 연결을 끊어내는것  사용하지 않는것 권장
+
+ selector
+

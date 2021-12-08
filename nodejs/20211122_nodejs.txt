@@ -1,0 +1,13 @@
+node.js
+php
+jsp
+python django
+rudy  rudy on rails
+
+request ->
+장고 urlresolver는 웹 페이지의 주소를 가져와 무엇을 할지 확인합니다.
+(urlresolver는 웹 사이트 주소인 URL(Uniform Resource Locator)를 통해 이해합니다).
+만약 일치하는 패턴이있으면, 장고는 해당 요청을 관련된 함수(view)에 넘겨줍니다
+urlresolver가 바로 집배원
+
+node.js -> 웹서버 내장

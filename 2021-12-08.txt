@@ -1,0 +1,23 @@
+https://repit.com
+https://ecma-international.org	javascript 공식사이트
+https://developer.mozilla.org/ko/	참조사이트
+
+https://nomadcoders.co/javascript-for-beginners/lobby   -> 클론코딩
+
+<script asyn src="main.js"></script>
+asyn option -> 파싱하다가 asyn 만나면 down 하는 도중 이후 내용 파싱  병렬수행
+다운받는 시간 절약
+html 파싱 완료 시 js파일 다운이 다 안되었으면 정상동작 안함
+
+<script defer scr="main.js"></script>
+다운로드 -> 이후 명령실행 
+
+async -> 실행순서 문제 발생
+defer -> 다운다받고 실행
+
+head 안에 defer option 으로 js 파일 사용
+
+
+'use srict'; 
+-> 무조건 사용 에러체크 기능  -> 상식적인 사용가능 성능개선
+

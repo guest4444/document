@@ -1,0 +1,52 @@
+jsbin -> 웹페이지에서 동작확인
+https://jsbin.com/?html,output
+
+html 관련 정보 확인
+https://developer.mozilla.org/ko/docs/Web/HTML
+
+html 문법검사
+https://validator.w3.org/
+
+풀스택 개발 로드맵 ⇢ https://academy.dream-coding.com/page...
+
+🚀 엘리와 더 체계적으로 배우고 싶다면 ⇢ 드림코딩 아카데미:
+http://academy.dream-coding.com/
+
+.....................................................
+
+🔗 Resources:
+Wikipedia 
+- HTML: https://en.wikipedia.org/wiki/HTML
+- Markup language: https://en.wikipedia.org/wiki/Markup_...
+- UTF-8: https://en.wikipedia.org/wiki/UTF-8
+
+MDN
+HTML elements reference: https://developer.mozilla.org/en-US/d...
+Document and website structure: https://developer.mozilla.org/en-US/docs/Learn/HTML/introduction_to_HTML/Document_and_website_structure
+
+Validator: https://validator.w3.org/
+
+Playground: http://jsbin.com/
+
+숙제는 여기서: https://en.wikipedia.org/wiki/HTML
+
+숙제도 다 하고 너무너무너무 심심하시면:
+https://www.w3.org/TR/html52/introduc...
+
+html head 파트에 들어가는 것들
+ui x 
+구글검색 타이틀 부가설명
+ 북마크 추가 제목 아이콘
+css 연결파일
+메타데이터만 존재
+
+body 사용자에게 보여지는 최상위 컨테이너
+
+block
+한줄에 하나
+
+inline
+공간허용시 다른 태그 옆에 배치 가능
+
+태그 안에는 attributes 가 존재
+
